@@ -1,7 +1,7 @@
 # Minnesota COVID Report
 
 
-Report last run: 2024-03-13 22:15:45
+Report last run: 2024-03-14 22:15:12
 
 ## Introduction
 
